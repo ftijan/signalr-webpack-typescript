@@ -349,5 +349,8 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# Launnch settings
+# Launch settings
 src/Example.SignalR.Api/Properties/launchSettings.json
+
+# Generated static files
+src/Example.SignalR.Api/wwwroot
